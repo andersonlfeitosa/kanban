@@ -33,7 +33,7 @@
 * Um member pode ter mais cards do que o seu tempo total de alocação na sprint.
 
 ## List Doing
-* Todo member deve ter um e somente um card nessa list. Isso indica claramente que o member só pode realizar um card por vez.
+* Todo member deve ter um e somente um card sem label de impedimento nessa list. Isso indica claramente que o member só pode realizar um card por vez.
 * Todos os cards dessa list devem ter no mínimo um label do tipo Tarefa e podem ter os outros labels.
 
 ## List Done
