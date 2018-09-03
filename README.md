@@ -40,3 +40,12 @@
 * Todos os members devem ter cards nessa list.
 * Todos os cards dessa list devem estar atribuídos aos members.
 * Todos os cards dessa list devem ter no mínimo um label do tipo Tarefa e podem ter os outros labels.
+
+## Procedimento para aplicar label Impedimento em um card
+1. Escrever um comentário na atividade informando o motivo pelo qual está impedida.
+1. Aplicar o label Impedido.
+1. Mover o card para a list Sprint.
+
+## Procedimento para remover o label Impedimento em um card
+1. Escrever um comentário na atividade informando o que foi feito para resolver o impasse.
+1. Remover o label Impedido.
