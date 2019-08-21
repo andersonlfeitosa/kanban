@@ -16,9 +16,10 @@
   * Extra Sprint
   * Crítico
   * Impedido
+  * Classificadores (agrupadores de assuntos)
 
 ## List Backlog
-* Qualquer member pode cadastrar cards nessa list desde que pelo menos dois member concordem com a criação do card
+* Qualquer member pode cadastrar cards nessa list desde que pelo menos dois members concordem com a criação do card
 * Qualquer member pode se candidatar para realização dos cards, mas a atribuição final acontecerá apenas na cerimônia de Sprint Planning
 * Qualquer member pode estimar o tempo para realização dos cards, mas a estimativa final acontecerá apenas na cerimônia de Sprint Planning
 
